@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Project = () => {
-  return <div>Project</div>;
+  return <div>I'm projecting right now</div>;
 };
 
 export default Project;

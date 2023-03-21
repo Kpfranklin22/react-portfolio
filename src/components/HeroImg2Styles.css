@@ -7,7 +7,7 @@
 
 .hero-img::before{
     content: "";
-    background-image: url("/src/assets/gameboy-bg2.jpg");
+    background-image: url("/src/assets/gameboy-bg.jpg");
     background-size: cover;
     background-position: center top;
     height: 100%;

@@ -1,6 +1,6 @@
 import './WordCardStyles.css';
 
-// import React from 'react';
+import React from 'react';
 // import project1 from "../assets/"
 
 const WorkCard = () => {

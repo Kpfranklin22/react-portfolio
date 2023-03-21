@@ -40,7 +40,13 @@ color:white;
 }
 
 .btn:hover{
-  background: rgb(255, 255, 255, 0);
+  background: rgb(255, 255, 255, 0.5);
+  color: white;
+  transition: 0.3s;
+}
+
+.btn-light:hover{
+  background: rgb(255, 255, 255, 0.5);
   color: white;
   transition: 0.3s;
 }

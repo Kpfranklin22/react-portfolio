@@ -23,10 +23,16 @@
 .location {
     display: flex;
     margin-bottom: 0.8rem;
+    font-weight: 600;
 }
 
 .location p{
     line-height: 30px;
+}
+
+.phone {
+    display: flex;
+    margin-bottom: 0.8rem;
 }
 
 .right {

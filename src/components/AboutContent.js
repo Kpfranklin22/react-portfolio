@@ -12,7 +12,7 @@ const AboutContent = () => {
       <div className="left">
         <h1>Who am I?</h1>
         <p>
-          A hardworking, honest, dependable worker with a sense of humor, who is
+          A hardworking, honest, dependable worker with a sense of humor who is
           still kid at heart! I love skateboarding, video games, collectibles,
           and 90s saturday morning cartoons. I enjoy spending time trying new
           foods and visiting new places with friends! My aim is to bring my lust

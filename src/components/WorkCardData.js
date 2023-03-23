@@ -20,7 +20,7 @@ const ProjectCardData = [
   {
     imgsrc: projectDdBb,
     title: 'Digital DIY Bulletin Board',
-    text: 'This project is an online community bulletin board for local bands in the DIY scene with user authentification functionality! My project partners and I seeded it with spoof event information for a laugh during presentation. Enjoy :)',
+    text: 'This project is an online community bulletin board for local bands in the DIY scene with user authentification functionality! My project partners and I seeded it with spoof event information for a laugh during presentation. Enjoy!',
     view: 'https://digital-diy-bulletin-board.herokuapp.com/',
     source: 'https://github.com/Kpfranklin22/digital-diy-bulletin-board',
   },

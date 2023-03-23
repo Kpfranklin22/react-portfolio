@@ -21,7 +21,7 @@ const AboutContent = () => {
           your team or take on your projects!
         </p>
         <Link to="/contact">
-          <button className="btn">Contact</button>
+          <button className="btn btn-light">Contact</button>
         </Link>
       </div>
 

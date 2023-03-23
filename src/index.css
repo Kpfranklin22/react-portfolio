@@ -27,16 +27,25 @@ ul{
   padding: 12px 32px;
   font-size: 1rem;
   text-transform: uppercase;
-  background: rgb(248,217,15);
+  background: rgba(237,221,3,255);
   color: black;
   border:1px solid white;
   font-weight: 600;
   cursor: pointer;
 }
+.btn-arcade{
+  height: 300px;
+  width: 300px;
+  border-radius: 49%;
+}
 
 .btn-light {
 background: transparent;
 color:white;
+}
+
+.btn-red {
+  background: rgba(215,2,24,255);
 }
 
 .btn:hover{

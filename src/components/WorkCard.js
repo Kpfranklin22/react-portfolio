@@ -1,32 +1,28 @@
 import './WordCardStyles.css';
 
 import React from 'react';
-import projectPokedex from '../assets/project-pokedex.png';
 import { NavLink } from 'react-router-dom';
 
-const WorkCard = () => {
+const WorkCard = (props) => {
   return (
     <div className="project-card">
-    <img src={projectPokedex} alt="image" />
-    <h2 className="project-title">Project Title</h2>
-    <div className="project-details">
-      <p>This is some text</p>
-      <div className="project-btns">
-      <NavLink
-        to="https://kpfranklin22.github.io/project-pokedex/"
-        className="btn"
-      >
-        View
-      </NavLink>
-      <NavLink
-        to="https://github.com/Kpfranklin22/project-pokedex"
-        className="btn"
-      >
-        Source
-      </NavLink>
+      <img src={props.imgsrc} alt="image" />
+      <h2 className="project-title">{props.title}</h2>
+      <div className="project-details">
+        <p>{props.text}</p>
+        <div className="project-btns">
+          <NavLink to={props.view} className="btn">
+            View
+          </NavLink>
+          <NavLink
+            to={props.source}
+            className="btn"
+          >
+            Source
+          </NavLink>
+        </div>
       </div>
     </div>
-  </div>
   );
 };
 

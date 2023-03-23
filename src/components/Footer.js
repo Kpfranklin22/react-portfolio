@@ -1,7 +1,12 @@
 import './FooterStyles.css';
-
 import React from 'react';
-import { FaHome, FaPhone, FaMailBulk, FaFacebook, FaTwitter, FaLinkedin, FaGithub } from 'react-icons/fa';
+import {
+  FaHome,
+  FaPhone,
+  FaMailBulk,
+  FaLinkedin,
+  FaGithub,
+} from 'react-icons/fa';
 
 const Footer = () => {
   return (
@@ -26,36 +31,39 @@ const Footer = () => {
           </div>
           <div className="email">
             <h4>
-              <FaMailBulk
-                size={20}
-                style={{ color: 'white', marginRight: '2rem' }}
-              />
+              <a href="/contact">
+                <FaMailBulk
+                  size={20}
+                  style={{ color: 'white', marginRight: '2rem' }}
+                />
+              </a>
               kpfranklin22@gmail.com
             </h4>
           </div>
         </div>
 
         <div className="right">
-            <h4>About the company</h4>
-            <p>Kyle here! CEO of kicking back and Founder of F.U.N. I enjoy long walks on the beach!</p>
-            <div className='social'>
-            <FaFacebook
+          <h4>About the Developer</h4>
+          <p>
+            I graduated GA Tech's EDX Full Stack MERN BootCamp. Using MongoDB,
+            Express.js, React.js, and Node I have learned to create applications
+            from front to back end!
+          </p>
+          <div className="social">
+            <a href="https://www.linkedin.com/in/kyle-franklin-493906258/">
+              <FaLinkedin
                 size={20}
                 style={{ color: 'white', marginRight: '2rem' }}
               />
-               <FaTwitter
+            </a>
+
+            <a href="https://github.com/Kpfranklin22">
+              <FaGithub
                 size={20}
                 style={{ color: 'white', marginRight: '2rem' }}
               />
-               <FaLinkedin
-                size={20}
-                style={{ color: 'white', marginRight: '2rem' }}
-              />
-               <FaGithub
-                size={20}
-                style={{ color: 'white', marginRight: '2rem' }}
-              />
-            </div>
+            </a>
+          </div>
         </div>
       </div>
     </div>

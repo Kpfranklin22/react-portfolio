@@ -5,8 +5,8 @@ import projectEe from '../assets/project-ee.png';
 const ProjectCardData = [
   {
     imgsrc: projectPokedex,
-    title: 'Pokemon Pokedex',
-    text: 'This is a labor of love project I chose. Growing up, Pokemon was the first Gameboy games I played and it became an instant favorite. I have since become a big fan of this type of JRPG adventure game and Sprite styling, and it was a pleasure to code something I was familiar with and enjoy!',
+    title: 'Project Pokédex',
+    text: 'This is a labor of love project I chose. Growing up, Pokémon was the first Gameboy games I played and it became an instant favorite. I have since become a big fan of this type of JRPG adventure game and Sprite styling, and it was a pleasure to code something I was familiar with and enjoy!',
     view: 'https://kpfranklin22.github.io/project-pokedex/',
     source: 'https://github.com/Kpfranklin22/project-pokedex',
   },

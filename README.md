@@ -14,6 +14,10 @@
 
 Using React.js, I have redesigned my portfolio page for future prospective job offers!
 
+![localhost_3000_](https://user-images.githubusercontent.com/115495027/228060120-d1f9085a-6b2c-4cfe-a0b2-60455b3e2a49.png)
+
+Demo Video: https://drive.google.com/file/d/14NVEdh3UgN3ygSeCgaW0QBIex7UTE7SK/view
+
 ## Installation
 
 Packages required: @emailjs/browser, @testing-library/jest-dom, @testing-library/react, @testing-library/user-event, react, react-dom, react-icons, react-router-dom, react-script, web-vitals. Some of these packages come with the React app out of the box.

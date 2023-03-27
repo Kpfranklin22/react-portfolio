@@ -35,7 +35,7 @@ Github: [Kpfranklin22](https://github.com/Kpfranklin22)
 
 ISC
 
-## :octocat: README created with [Pro-Readme-Generator](https://github.com/Kpfranklin22/pro-readme-generator) :octocat:
+## <h2 align="center"> :octocat: README created with [Pro-Readme-Generator](https://github.com/Kpfranklin22/pro-readme-generator) :octocat:
 
 ----------------------------------------------------------------------------------
 

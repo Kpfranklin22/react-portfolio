@@ -14,9 +14,9 @@
 
 Using React.js, I have redesigned my portfolio page for future prospective job offers!
 
-![localhost_3000_](https://user-images.githubusercontent.com/115495027/228060120-d1f9085a-6b2c-4cfe-a0b2-60455b3e2a49.png)
+Check it out! https://kpfranklin22.github.io/react-portfolio-app2/
 
-Demo Video: https://drive.google.com/file/d/14NVEdh3UgN3ygSeCgaW0QBIex7UTE7SK/view
+![localhost_3000_](https://user-images.githubusercontent.com/115495027/228060120-d1f9085a-6b2c-4cfe-a0b2-60455b3e2a49.png)
 
 ## Installation
 
